@@ -129,7 +129,7 @@
                   <img src="img/avatar-5.webp" alt="Customer 5" class="avatar">
                   <span class="avatar more">12+</span>
                 </div>
-                <p class="mb-0 mt-2">12,000+ lorem ipsum dolor sit amet consectetur adipiscing elit</p>
+                <p class="mb-0 mt-2">12,000+ satisfied clients with our digital marketing services</p>
               </div>
             </div>
           </div>
